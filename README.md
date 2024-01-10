@@ -20,4 +20,4 @@
 
 #
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=debora-barbosa&layout=compact&theme=yeblu)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=debora-barbosa&layout=compact&theme=aura_dark)
