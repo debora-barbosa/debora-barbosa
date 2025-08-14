@@ -1,23 +1,16 @@
 # Débora Barbosa
 
-👩🏻‍💻 Tenho 26 anos e sou goiana.
-
-🖥️ Sou bacharel em Ciência da Computação pela PUC Goiás e no momento estudo Desenvolvimento Web através de cursos, artigos, vídeos e livros. 
-
-💌 Além de apaixonada por tecnologia, também amo música, livros, Harry Potter, animes e cachorros.
+👩🏻‍💻 Olá! Eu me chamo a Débora. Sou bacharel em Ciência da Computação pela Pontíficia Universidade Católica de Goiás e atualmente curso minha segunda graduação em Estatística na Universidade Federal de Goiás e faço pós-graduação em Ciência de Dados na Gran Faculdade. Sou apaixonada por matemática, tecnologia e cachorros.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debora--barbosa/) 
 
 ## Principais stacks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)] [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)] [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)] 
 
 ## Stacks que estou estudando
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
 
 ## Ferramentas que utilizo
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)]
 
-#
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=debora-barbosa&layout=compact&theme=aura_dark)
