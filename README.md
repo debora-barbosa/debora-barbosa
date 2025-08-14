@@ -2,9 +2,6 @@
 
 👩🏻‍💻 Olá! Eu me chamo a Débora. Sou bacharel em Ciência da Computação pela Pontíficia Universidade Católica de Goiás e atualmente curso minha segunda graduação em Estatística na Universidade Federal de Goiás e faço pós-graduação em Ciência de Dados na Gran Faculdade. Sou apaixonada por matemática, tecnologia e cachorros.
 
-## Conecte-se comigo
-![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)(https://www.linkedin.com/in/debora--barbosa/) 
-
 ## Principais stacks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
 
