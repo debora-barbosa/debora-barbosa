@@ -1,12 +1,14 @@
-# Débora Barbosa
+![débora barbosa](/github-header-banner.png)
 
-👩🏻‍💻 Olá! Eu me chamo a Débora. Sou bacharel em Ciência da Computação pela Pontíficia Universidade Católica de Goiás e atualmente curso minha segunda graduação em Estatística na Universidade Federal de Goiás e faço pós-graduação em Ciência de Dados na Gran Faculdade. Sou apaixonada por matemática, tecnologia e cachorros.
+:smile: Olá! Eu me chamo Débora Barbosa e tenho 28 anos.
+
+:computer: Cientista de Dados focada em transformar números em soluções estratégicas! Sou graduada em Ciência da Computação (Pontifícia Universidade Católica de Goiás), pós-graduada em Ciência de Dados (Gran Faculdade) e atualmente curso Estatística na Universidade Federal de Goiás.
 
 ## Principais stacks
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff) ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
 
 ## Stacks que estou estudando
-![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
 ## Ferramentas que utilizo
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)
