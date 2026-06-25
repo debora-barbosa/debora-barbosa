@@ -1,6 +1,4 @@
-![débora barbosa](/github-header-banner.png)
-
-:smile: Olá! Eu me chamo Débora Barbosa e tenho 28 anos.
+Débora • 28 anos • Ela/Dela ![laço](https://github.com/debora-barbosa/debora-barbosa/blob/main/tumblr_lkl6tz9w4G1qfamg6540.gif)
 
 :computer: Cientista de Dados focada em transformar números em soluções estratégicas! Sou graduada em Ciência da Computação (Pontifícia Universidade Católica de Goiás), pós-graduada em Ciência de Dados (Gran Faculdade) e atualmente curso Estatística na Universidade Federal de Goiás.
 
