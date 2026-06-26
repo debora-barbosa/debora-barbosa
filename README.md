@@ -1,5 +1,5 @@
 ## Sobre mim ✿
-🎀 28 anos, goiana<br>
+🎀 Olá, eu sou a Débora. Tenho 28 anos e sou goiana<br>
 🎓 Graduada em Ciência da Computação na PUC Goías e pós-graduada em Ciência de Dados<br>
 📚 Cursando segunda graduação em Estatística na Universidade Federal de Goiás
 
